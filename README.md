@@ -18,14 +18,9 @@ Tras auditar el dataset, identificamos tres pilares de comportamiento:
 1. **El Factor Tiempo:** Los clientes en sus primeros 10 meses tienen la tasa de fuga más alta. La antigüedad tiene una correlación negativa de **-0.35** con la evasión.
 2. **Hipótesis del "Inseguro Digital":** Validamos que la falta de servicios de seguridad y soporte técnico incrementa el riesgo de abandono ($r = 0.17$).
 3. **Umbral de Precio:** El riesgo de fuga se dispara cuando los cargos mensuales superan los **$70**, sugiriendo una sensibilidad al precio en el segmento premium.
+   
+## 📈 Conclusiones y Recomendaciones
+Se recomienda a la gerencia implementar una estrategia de "Lock-in" técnico, bonificando servicios de seguridad en los primeros meses de contrato para reducir el "Puntaje Inseguro" y aumentar la lealtad del cliente.
 
-## 📂 Estructura del Repositorio
-* `data/`: Contiene el dataset original (JSON/CSV).
-* `notebooks/`: Proceso completo de limpieza, EDA y visualización.
-* `output/`: Reportes ejecutivos y gráficas de correlación exportadas.
-* `src/`: Funciones modulares para auditoría de variables.
-
-## 🚀 Instalación y Uso
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/gestion-pyme-inteligente.git](https://github.com/tu-usuario/gestion-pyme-inteligente.git)
+Autor: [Miyen]
+Perfil: Analítico-Gerencial con foco en Data Science e IA Generativa.
