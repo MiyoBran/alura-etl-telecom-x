@@ -1,4 +1,4 @@
-# 🚀 Gestión PyME Inteligente: Análisis de Evasión (Churn)
+# 🚀 Telecom X: Análisis de Evasión (Churn)
 
 Este proyecto nace como una solución de analítica avanzada para **Telecom X**, enfocada en identificar los factores críticos que provocan la pérdida de clientes. A través de un enfoque de **Data Science**, transformamos datos crudos en estrategias de retención accionables.
 
@@ -10,7 +10,7 @@ El propósito principal es predecir la probabilidad de evasión de clientes util
 ## 🛠️ Tecnologías y Herramientas
 * **Lenguaje:** Python 3.x
 * **Librerías principales:** Pandas, NumPy, Seaborn, Matplotlib
-* **Entorno de desarrollo:** Eclipse 2025 / IntelliJ IDEA / Google Colab
+* **Entorno de desarrollo:** Google Colab
 * **Metodología:** Clean Code y comentarios didácticos para asegurar la mantenibilidad.
 
 ## 📊 Hallazgos Clave (Insights)
@@ -20,7 +20,8 @@ Tras auditar el dataset, identificamos tres pilares de comportamiento:
 3. **Umbral de Precio:** El riesgo de fuga se dispara cuando los cargos mensuales superan los **$70**, sugiriendo una sensibilidad al precio en el segmento premium.
    
 ## 📈 Conclusiones y Recomendaciones
-Se recomienda a la gerencia implementar una estrategia de "Lock-in" técnico, bonificando servicios de seguridad en los primeros meses de contrato para reducir el "Puntaje Inseguro" y aumentar la lealtad del cliente.
+Se recomienda a la gerencia implementar una estrategia de "Lock-in" técnico, bonificando servicios de seguridad en los primeros meses de contrato para reducir el "Puntaje Inseguro" y aumentar la lealtad del cliente. Como asi tambien priorizar el cambio a contrato a plazo mas largo.
 
 Autor: [Miyen]
 Perfil: Analítico-Gerencial con foco en Data Science e IA Generativa.
+
